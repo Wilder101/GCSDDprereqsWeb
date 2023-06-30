@@ -11,10 +11,10 @@ This site shows, and can execute on the web, all four implementations of the Uni
 [UWB GCSDD Overview](https://www.uwb.edu/stem/graduate/gcsdd)
 
 ## Solution Repositories
-[GCSDDprereq1](https://github.com/Wilder101/GCSDDprereq1)
+[GCSDDprereq1](https://github.com/Wilder101/GCSDDprereq1){:target="_blank"}
 
-[GCSDDprereq2](https://github.com/Wilder101/GCSDDprereq2)
+[GCSDDprereq2](https://github.com/Wilder101/GCSDDprereq2){:target="_blank"}
 
-[GCSDDprereq3](https://github.com/Wilder101/GCSDDprereq3)
+[GCSDDprereq3](https://github.com/Wilder101/GCSDDprereq3){:target="_blank"}
 
-[GCSDDprereq4](https://github.com/Wilder101/GCSDDprereq4)
+[GCSDDprereq4](https://github.com/Wilder101/GCSDDprereq4){:target="_blank"}
