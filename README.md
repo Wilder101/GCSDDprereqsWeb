@@ -12,10 +12,9 @@ This site shows, and can execute on the web, all four implementations of the Uni
 
 ## Solution Repositories
 [GCSDDprereq1](https://github.com/Wilder101/GCSDDprereq1)
-<a href="https://github.com/Wilder101/GCSDDprereq1" target="_blank">GCSDDprereq1</a>
 
-[GCSDDprereq2](https://github.com/Wilder101/GCSDDprereq2){:target="_blank"}
+[GCSDDprereq2](https://github.com/Wilder101/GCSDDprereq2)
 
-[GCSDDprereq3](https://github.com/Wilder101/GCSDDprereq3){:target="_blank"}
+[GCSDDprereq3](https://github.com/Wilder101/GCSDDprereq3)
 
-[GCSDDprereq4](https://github.com/Wilder101/GCSDDprereq4){:target="_blank"}
+[GCSDDprereq4](https://github.com/Wilder101/GCSDDprereq4)
