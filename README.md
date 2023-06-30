@@ -1,7 +1,7 @@
 # GCSDDprereqsWeb
 Wilder's UWB GCSDD Prerequisites on the web!
 
-View the page here: deployment coming soon
+View the page here: [https://wilder101.github.io/GCSDDprereqsWeb](https://wilder101.github.io/GCSDDprereqsWeb)
 
 This site shows, and can execute on the web, all four implementations of the University of Washington | Bothell (UWB), School of Science, Technology, Engineering, & Mathematics (STEM), Graduate Certificate in Software Design and Development (GCSDD), Prerequisite Sample Coursework.
 
